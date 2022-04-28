@@ -1,0 +1,15 @@
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\7_AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\7_AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\7_AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\7_AreaOfFigures.AssemblyInfo.cs
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\7_AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\bin\Debug\net6.0\7_AreaOfFigures.exe
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\bin\Debug\net6.0\7_AreaOfFigures.deps.json
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\bin\Debug\net6.0\7_AreaOfFigures.runtimeconfig.json
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\bin\Debug\net6.0\7_AreaOfFigures.dll
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\bin\Debug\net6.0\7_AreaOfFigures.pdb
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\7_AreaOfFigures.dll
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\refint\7_AreaOfFigures.dll
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\7_AreaOfFigures.pdb
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\7_AreaOfFigures.genruntimeconfig.cache
+C:\Users\Longo\source\repos\DemoApp\7_AreaOfFigures\obj\Debug\net6.0\ref\7_AreaOfFigures.dll

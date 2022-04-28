@@ -1,0 +1,15 @@
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\bin\Debug\net6.0\3_EvenOrOdd.exe
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\bin\Debug\net6.0\3_EvenOrOdd.deps.json
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\bin\Debug\net6.0\3_EvenOrOdd.runtimeconfig.json
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\bin\Debug\net6.0\3_EvenOrOdd.dll
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\bin\Debug\net6.0\3_EvenOrOdd.pdb
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\3_EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\3_EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\3_EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\3_EvenOrOdd.AssemblyInfo.cs
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\3_EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\3_EvenOrOdd.dll
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\refint\3_EvenOrOdd.dll
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\3_EvenOrOdd.pdb
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\3_EvenOrOdd.genruntimeconfig.cache
+C:\Users\Longo\source\repos\DemoApp\3_EvenOrOdd\obj\Debug\net6.0\ref\3_EvenOrOdd.dll

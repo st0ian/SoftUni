@@ -1,0 +1,15 @@
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\bin\Debug\net6.0\6_SpeedInfo.exe
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\bin\Debug\net6.0\6_SpeedInfo.deps.json
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\bin\Debug\net6.0\6_SpeedInfo.runtimeconfig.json
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\bin\Debug\net6.0\6_SpeedInfo.dll
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\bin\Debug\net6.0\6_SpeedInfo.pdb
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\6_SpeedInfo.csproj.AssemblyReference.cache
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\6_SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\6_SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\6_SpeedInfo.AssemblyInfo.cs
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\6_SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\6_SpeedInfo.dll
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\refint\6_SpeedInfo.dll
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\6_SpeedInfo.pdb
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\6_SpeedInfo.genruntimeconfig.cache
+C:\Users\Longo\source\repos\DemoApp\6_SpeedInfo\obj\Debug\net6.0\ref\6_SpeedInfo.dll

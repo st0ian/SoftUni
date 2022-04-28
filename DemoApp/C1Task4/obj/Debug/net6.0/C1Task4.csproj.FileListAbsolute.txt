@@ -1,0 +1,15 @@
+C:\Users\Longo\source\repos\DemoApp\C1Task4\bin\Debug\net6.0\C1Task4.exe
+C:\Users\Longo\source\repos\DemoApp\C1Task4\bin\Debug\net6.0\C1Task4.deps.json
+C:\Users\Longo\source\repos\DemoApp\C1Task4\bin\Debug\net6.0\C1Task4.runtimeconfig.json
+C:\Users\Longo\source\repos\DemoApp\C1Task4\bin\Debug\net6.0\C1Task4.dll
+C:\Users\Longo\source\repos\DemoApp\C1Task4\bin\Debug\net6.0\C1Task4.pdb
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\C1Task4.csproj.AssemblyReference.cache
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\C1Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\C1Task4.AssemblyInfoInputs.cache
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\C1Task4.AssemblyInfo.cs
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\C1Task4.csproj.CoreCompileInputs.cache
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\C1Task4.dll
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\refint\C1Task4.dll
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\C1Task4.pdb
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\C1Task4.genruntimeconfig.cache
+C:\Users\Longo\source\repos\DemoApp\C1Task4\obj\Debug\net6.0\ref\C1Task4.dll

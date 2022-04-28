@@ -1,0 +1,15 @@
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\bin\Debug\net6.0\1_ExcellentResult.exe
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\bin\Debug\net6.0\1_ExcellentResult.deps.json
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\bin\Debug\net6.0\1_ExcellentResult.runtimeconfig.json
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\bin\Debug\net6.0\1_ExcellentResult.dll
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\bin\Debug\net6.0\1_ExcellentResult.pdb
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\1_ExcellentResult.csproj.AssemblyReference.cache
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\1_ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\1_ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\1_ExcellentResult.AssemblyInfo.cs
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\1_ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\1_ExcellentResult.dll
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\refint\1_ExcellentResult.dll
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\1_ExcellentResult.pdb
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\1_ExcellentResult.genruntimeconfig.cache
+C:\Users\Longo\source\repos\DemoApp\1_ExcellentResult\obj\Debug\net6.0\ref\1_ExcellentResult.dll

@@ -1,0 +1,15 @@
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\bin\Debug\net6.0\2_Greater Number.exe
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\bin\Debug\net6.0\2_Greater Number.deps.json
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\bin\Debug\net6.0\2_Greater Number.runtimeconfig.json
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\bin\Debug\net6.0\2_Greater Number.dll
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\bin\Debug\net6.0\2_Greater Number.pdb
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\2_Greater Number.csproj.AssemblyReference.cache
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\2_Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\2_Greater Number.AssemblyInfoInputs.cache
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\2_Greater Number.AssemblyInfo.cs
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\2_Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\2_Greater Number.dll
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\refint\2_Greater Number.dll
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\2_Greater Number.pdb
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\2_Greater Number.genruntimeconfig.cache
+C:\Users\Longo\source\repos\DemoApp\2_Greater Number\obj\Debug\net6.0\ref\2_Greater Number.dll
