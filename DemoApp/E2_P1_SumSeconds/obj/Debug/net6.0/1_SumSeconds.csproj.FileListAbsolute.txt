@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\bin\Debug\net6.0\1_SumSeconds.exe
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\bin\Debug\net6.0\1_SumSeconds.deps.json
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\bin\Debug\net6.0\1_SumSeconds.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\bin\Debug\net6.0\1_SumSeconds.dll
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\bin\Debug\net6.0\1_SumSeconds.pdb
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\1_SumSeconds.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\1_SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\1_SumSeconds.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\1_SumSeconds.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\1_SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\1_SumSeconds.dll
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\refint\1_SumSeconds.dll
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\1_SumSeconds.pdb
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\1_SumSeconds.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\DemoApp\1_\obj\Debug\net6.0\ref\1_SumSeconds.dll

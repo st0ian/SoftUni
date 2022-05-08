@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Longo\\source\\repos\\DemoApp\\3_EvenOrOdd\\3_EvenOrOdd.csproj": {}
+    "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\3_EvenOrOdd\\3_EvenOrOdd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Longo\\source\\repos\\DemoApp\\3_EvenOrOdd\\3_EvenOrOdd.csproj": {
+    "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\3_EvenOrOdd\\3_EvenOrOdd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Longo\\source\\repos\\DemoApp\\3_EvenOrOdd\\3_EvenOrOdd.csproj",
+        "projectUniqueName": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\3_EvenOrOdd\\3_EvenOrOdd.csproj",
         "projectName": "3_EvenOrOdd",
-        "projectPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\3_EvenOrOdd\\3_EvenOrOdd.csproj",
+        "projectPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\3_EvenOrOdd\\3_EvenOrOdd.csproj",
         "packagesPath": "C:\\Users\\Longo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\3_EvenOrOdd\\obj\\",
+        "outputPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\3_EvenOrOdd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Longo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

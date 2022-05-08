@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Longo\\source\\repos\\DemoApp\\Task8\\Task8.csproj",
+      "projectUniqueName": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\Task8\\Task8.csproj",
       "projectName": "Task8",
-      "projectPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\Task8\\Task8.csproj",
+      "projectPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\Task8\\Task8.csproj",
       "packagesPath": "C:\\Users\\Longo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\Task8\\obj\\",
+      "outputPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\Task8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Longo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

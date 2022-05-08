@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Longo\\source\\repos\\DemoApp\\C1Task2\\C1Task3.csproj": {}
+    "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\C1Task2\\C1Task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Longo\\source\\repos\\DemoApp\\C1Task2\\C1Task3.csproj": {
+    "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\C1Task2\\C1Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Longo\\source\\repos\\DemoApp\\C1Task2\\C1Task3.csproj",
+        "projectUniqueName": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\C1Task2\\C1Task3.csproj",
         "projectName": "C1Task3",
-        "projectPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\C1Task2\\C1Task3.csproj",
+        "projectPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\C1Task2\\C1Task3.csproj",
         "packagesPath": "C:\\Users\\Longo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\C1Task2\\obj\\",
+        "outputPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\C1Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Longo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

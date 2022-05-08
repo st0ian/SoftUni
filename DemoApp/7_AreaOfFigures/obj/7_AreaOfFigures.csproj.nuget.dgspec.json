@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Longo\\source\\repos\\DemoApp\\7_AreaOfFigures\\7_AreaOfFigures.csproj": {}
+    "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\7_AreaOfFigures\\7_AreaOfFigures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Longo\\source\\repos\\DemoApp\\7_AreaOfFigures\\7_AreaOfFigures.csproj": {
+    "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\7_AreaOfFigures\\7_AreaOfFigures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Longo\\source\\repos\\DemoApp\\7_AreaOfFigures\\7_AreaOfFigures.csproj",
+        "projectUniqueName": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\7_AreaOfFigures\\7_AreaOfFigures.csproj",
         "projectName": "7_AreaOfFigures",
-        "projectPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\7_AreaOfFigures\\7_AreaOfFigures.csproj",
+        "projectPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\7_AreaOfFigures\\7_AreaOfFigures.csproj",
         "packagesPath": "C:\\Users\\Longo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\7_AreaOfFigures\\obj\\",
+        "outputPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\7_AreaOfFigures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Longo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

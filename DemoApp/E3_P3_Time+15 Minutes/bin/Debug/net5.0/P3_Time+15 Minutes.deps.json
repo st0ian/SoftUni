@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P3_Time+15 Minutes/1.0.0": {
+        "runtime": {
+          "P3_Time+15 Minutes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P3_Time+15 Minutes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

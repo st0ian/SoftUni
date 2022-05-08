@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Longo\\source\\repos\\DemoApp\\C1Task6\\C1Task6.csproj",
+      "projectUniqueName": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\C1Task6\\C1Task6.csproj",
       "projectName": "C1Task6",
-      "projectPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\C1Task6\\C1Task6.csproj",
+      "projectPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\C1Task6\\C1Task6.csproj",
       "packagesPath": "C:\\Users\\Longo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Longo\\source\\repos\\DemoApp\\C1Task6\\obj\\",
+      "outputPath": "C:\\Users\\Longo\\Desktop\\Repos\\Training\\DemoApp\\C1Task6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Longo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
