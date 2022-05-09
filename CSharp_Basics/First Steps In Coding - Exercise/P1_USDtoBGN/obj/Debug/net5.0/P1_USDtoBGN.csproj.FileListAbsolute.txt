@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\bin\Debug\net5.0\P1_USDtoBGN.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\bin\Debug\net5.0\P1_USDtoBGN.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\bin\Debug\net5.0\P1_USDtoBGN.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\bin\Debug\net5.0\P1_USDtoBGN.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\bin\Debug\net5.0\P1_USDtoBGN.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\bin\Debug\net5.0\P1_USDtoBGN.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\P1_USDtoBGN.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\P1_USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\P1_USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\P1_USDtoBGN.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\P1_USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\P1_USDtoBGN.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\refint\P1_USDtoBGN.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\P1_USDtoBGN.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\P1_USDtoBGN.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P1_USDtoBGN\obj\Debug\net5.0\ref\P1_USDtoBGN.dll

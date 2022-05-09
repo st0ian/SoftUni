@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\bin\Debug\net5.0\P1_HelloSoftUni.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\bin\Debug\net5.0\P1_HelloSoftUni.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\bin\Debug\net5.0\P1_HelloSoftUni.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\bin\Debug\net5.0\P1_HelloSoftUni.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\bin\Debug\net5.0\P1_HelloSoftUni.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\bin\Debug\net5.0\P1_HelloSoftUni.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\P1_HelloSoftUni.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\P1_HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\P1_HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\P1_HelloSoftUni.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\P1_HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\P1_HelloSoftUni.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\refint\P1_HelloSoftUni.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\P1_HelloSoftUni.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\P1_HelloSoftUni.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P1_HelloSoftUni\obj\Debug\net5.0\ref\P1_HelloSoftUni.dll
