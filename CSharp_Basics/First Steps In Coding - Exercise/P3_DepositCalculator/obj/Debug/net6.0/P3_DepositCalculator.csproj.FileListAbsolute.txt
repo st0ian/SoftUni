@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\bin\Debug\net6.0\P3_DepositCalculator.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\bin\Debug\net6.0\P3_DepositCalculator.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\bin\Debug\net6.0\P3_DepositCalculator.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\bin\Debug\net6.0\P3_DepositCalculator.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\bin\Debug\net6.0\P3_DepositCalculator.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\P3_DepositCalculator.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\P3_DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\P3_DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\P3_DepositCalculator.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\P3_DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\P3_DepositCalculator.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\refint\P3_DepositCalculator.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\P3_DepositCalculator.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\P3_DepositCalculator.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P3_DepositCalculator\obj\Debug\net6.0\ref\P3_DepositCalculator.dll

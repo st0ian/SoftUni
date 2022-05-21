@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\bin\Debug\net6.0\P7_ProjectsCreation.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\bin\Debug\net6.0\P7_ProjectsCreation.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\bin\Debug\net6.0\P7_ProjectsCreation.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\bin\Debug\net6.0\P7_ProjectsCreation.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\bin\Debug\net6.0\P7_ProjectsCreation.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\P7_ProjectsCreation.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\P7_ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\P7_ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\P7_ProjectsCreation.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\P7_ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\P7_ProjectsCreation.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\refint\P7_ProjectsCreation.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\P7_ProjectsCreation.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\P7_ProjectsCreation.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P7_ProjectsCreation\obj\Debug\net6.0\ref\P7_ProjectsCreation.dll

@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\bin\Debug\net6.0\P5_SuppliesForSchool.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\bin\Debug\net6.0\P5_SuppliesForSchool.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\bin\Debug\net6.0\P5_SuppliesForSchool.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\bin\Debug\net6.0\P5_SuppliesForSchool.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\bin\Debug\net6.0\P5_SuppliesForSchool.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\P5_SuppliesForSchool.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\P5_SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\P5_SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\P5_SuppliesForSchool.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\P5_SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\P5_SuppliesForSchool.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\refint\P5_SuppliesForSchool.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\P5_SuppliesForSchool.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\P5_SuppliesForSchool.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P5_SuppliesForSchool\obj\Debug\net6.0\ref\P5_SuppliesForSchool.dll

@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\bin\Debug\net6.0\P5_GreetingByName.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\bin\Debug\net6.0\P5_GreetingByName.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\bin\Debug\net6.0\P5_GreetingByName.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\bin\Debug\net6.0\P5_GreetingByName.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\bin\Debug\net6.0\P5_GreetingByName.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\P5_GreetingByName.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\P5_GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\P5_GreetingByName.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\P5_GreetingByName.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\P5_GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\P5_GreetingByName.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\refint\P5_GreetingByName.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\P5_GreetingByName.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\P5_GreetingByName.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P5_GreetingByName\obj\Debug\net6.0\ref\P5_GreetingByName.dll

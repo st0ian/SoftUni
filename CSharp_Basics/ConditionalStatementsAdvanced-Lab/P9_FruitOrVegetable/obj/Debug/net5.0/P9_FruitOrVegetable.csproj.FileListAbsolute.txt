@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\bin\Debug\net5.0\P9_FruitOrVegetable.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\bin\Debug\net5.0\P9_FruitOrVegetable.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\bin\Debug\net5.0\P9_FruitOrVegetable.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\bin\Debug\net5.0\P9_FruitOrVegetable.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\bin\Debug\net5.0\P9_FruitOrVegetable.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\bin\Debug\net5.0\P9_FruitOrVegetable.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\P9_FruitOrVegetable.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\P9_FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\P9_FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\P9_FruitOrVegetable.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\P9_FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\P9_FruitOrVegetable.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\refint\P9_FruitOrVegetable.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\P9_FruitOrVegetable.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\P9_FruitOrVegetable.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P9_FruitOrVegetable\obj\Debug\net5.0\ref\P9_FruitOrVegetable.dll

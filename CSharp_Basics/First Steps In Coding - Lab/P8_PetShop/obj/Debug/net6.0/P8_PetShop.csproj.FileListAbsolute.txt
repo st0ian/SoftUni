@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\bin\Debug\net6.0\P8_PetShop.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\bin\Debug\net6.0\P8_PetShop.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\bin\Debug\net6.0\P8_PetShop.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\bin\Debug\net6.0\P8_PetShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\bin\Debug\net6.0\P8_PetShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\P8_PetShop.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\P8_PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\P8_PetShop.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\P8_PetShop.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\P8_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\P8_PetShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\refint\P8_PetShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\P8_PetShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\P8_PetShop.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P8_PetShop\obj\Debug\net6.0\ref\P8_PetShop.dll

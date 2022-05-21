@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\bin\Debug\net5.0\P1_DayOfWeek.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\bin\Debug\net5.0\P1_DayOfWeek.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\bin\Debug\net5.0\P1_DayOfWeek.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\bin\Debug\net5.0\P1_DayOfWeek.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\bin\Debug\net5.0\P1_DayOfWeek.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\bin\Debug\net5.0\P1_DayOfWeek.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\P1_DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\P1_DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\P1_DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\P1_DayOfWeek.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\P1_DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\P1_DayOfWeek.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\refint\P1_DayOfWeek.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\P1_DayOfWeek.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\P1_DayOfWeek.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P1_DayOfWeek\obj\Debug\net5.0\ref\P1_DayOfWeek.dll

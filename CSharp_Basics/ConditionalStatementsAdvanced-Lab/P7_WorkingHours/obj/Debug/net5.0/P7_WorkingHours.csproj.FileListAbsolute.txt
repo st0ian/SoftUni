@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\bin\Debug\net5.0\P7_WorkingHours.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\bin\Debug\net5.0\P7_WorkingHours.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\bin\Debug\net5.0\P7_WorkingHours.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\bin\Debug\net5.0\P7_WorkingHours.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\bin\Debug\net5.0\P7_WorkingHours.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\bin\Debug\net5.0\P7_WorkingHours.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\P7_WorkingHours.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\P7_WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\P7_WorkingHours.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\P7_WorkingHours.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\P7_WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\P7_WorkingHours.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\refint\P7_WorkingHours.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\P7_WorkingHours.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\P7_WorkingHours.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P7_WorkingHours\obj\Debug\net5.0\ref\P7_WorkingHours.dll

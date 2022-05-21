@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\bin\Debug\net6.0\P4_VacationBooksList.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\bin\Debug\net6.0\P4_VacationBooksList.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\bin\Debug\net6.0\P4_VacationBooksList.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\bin\Debug\net6.0\P4_VacationBooksList.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\bin\Debug\net6.0\P4_VacationBooksList.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\P4_VacationBooksList.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\P4_VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\P4_VacationBooksList.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\P4_VacationBooksList.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\P4_VacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\P4_VacationBooksList.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\refint\P4_VacationBooksList.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\P4_VacationBooksList.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\P4_VacationBooksList.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P4_VacationBooksList\obj\Debug\net6.0\ref\P4_VacationBooksList.dll

@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\bin\Debug\net5.0\P2_WeekendOrWorkingDay.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\bin\Debug\net5.0\P2_WeekendOrWorkingDay.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\bin\Debug\net5.0\P2_WeekendOrWorkingDay.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\bin\Debug\net5.0\P2_WeekendOrWorkingDay.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\bin\Debug\net5.0\P2_WeekendOrWorkingDay.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\bin\Debug\net5.0\P2_WeekendOrWorkingDay.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\P2_WeekendOrWorkingDay.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\P2_WeekendOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\P2_WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\P2_WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\P2_WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\P2_WeekendOrWorkingDay.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\refint\P2_WeekendOrWorkingDay.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\P2_WeekendOrWorkingDay.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\P2_WeekendOrWorkingDay.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P2_WeekendOrWorkingDay\obj\Debug\net5.0\ref\P2_WeekendOrWorkingDay.dll

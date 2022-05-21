@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\bin\Debug\net6.0\P4_ InchesToCentimeters.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\bin\Debug\net6.0\P4_ InchesToCentimeters.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\bin\Debug\net6.0\P4_ InchesToCentimeters.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\bin\Debug\net6.0\P4_ InchesToCentimeters.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\bin\Debug\net6.0\P4_ InchesToCentimeters.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\P4_ InchesToCentimeters.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\P4_ InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\P4_ InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\P4_ InchesToCentimeters.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\P4_ InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\P4_ InchesToCentimeters.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\refint\P4_ InchesToCentimeters.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\P4_ InchesToCentimeters.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\P4_ InchesToCentimeters.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P4_ InchesToCentimeters\obj\Debug\net6.0\ref\P4_ InchesToCentimeters.dll

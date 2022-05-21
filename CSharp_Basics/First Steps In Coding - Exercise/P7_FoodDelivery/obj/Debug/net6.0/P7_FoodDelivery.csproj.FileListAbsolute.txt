@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\bin\Debug\net6.0\P7_FoodDelivery.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\bin\Debug\net6.0\P7_FoodDelivery.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\bin\Debug\net6.0\P7_FoodDelivery.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\bin\Debug\net6.0\P7_FoodDelivery.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\bin\Debug\net6.0\P7_FoodDelivery.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\P7_FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\P7_FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\P7_FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\P7_FoodDelivery.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\P7_FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\P7_FoodDelivery.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\refint\P7_FoodDelivery.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\P7_FoodDelivery.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\P7_FoodDelivery.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Exercise\P7_FoodDelivery\obj\Debug\net6.0\ref\P7_FoodDelivery.dll

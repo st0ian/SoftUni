@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\bin\Debug\net5.0\P3_AnimalType.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\bin\Debug\net5.0\P3_AnimalType.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\bin\Debug\net5.0\P3_AnimalType.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\bin\Debug\net5.0\P3_AnimalType.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\bin\Debug\net5.0\P3_AnimalType.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\bin\Debug\net5.0\P3_AnimalType.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\P3_AnimalType.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\P3_AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\P3_AnimalType.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\P3_AnimalType.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\P3_AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\P3_AnimalType.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\refint\P3_AnimalType.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\P3_AnimalType.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\P3_AnimalType.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P3_AnimalType\obj\Debug\net5.0\ref\P3_AnimalType.dll

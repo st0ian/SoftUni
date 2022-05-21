@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P6_Repainting/1.0.0": {
+        "runtime": {
+          "P6_Repainting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P6_Repainting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

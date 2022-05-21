@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\bin\Debug\net5.0\P5_SmallShop.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\bin\Debug\net5.0\P5_SmallShop.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\bin\Debug\net5.0\P5_SmallShop.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\bin\Debug\net5.0\P5_SmallShop.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\bin\Debug\net5.0\P5_SmallShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\bin\Debug\net5.0\P5_SmallShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\P5_SmallShop.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\P5_SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\P5_SmallShop.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\P5_SmallShop.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\P5_SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\P5_SmallShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\refint\P5_SmallShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\P5_SmallShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\P5_SmallShop.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P5_SmallShop\obj\Debug\net5.0\ref\P5_SmallShop.dll

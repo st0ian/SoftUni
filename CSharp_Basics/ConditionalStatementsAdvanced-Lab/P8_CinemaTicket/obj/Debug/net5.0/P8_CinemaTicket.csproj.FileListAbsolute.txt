@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\bin\Debug\net5.0\P8_CinemaTicket.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\bin\Debug\net5.0\P8_CinemaTicket.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\bin\Debug\net5.0\P8_CinemaTicket.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\bin\Debug\net5.0\P8_CinemaTicket.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\bin\Debug\net5.0\P8_CinemaTicket.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\bin\Debug\net5.0\P8_CinemaTicket.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\P8_CinemaTicket.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\P8_CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\P8_CinemaTicket.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\P8_CinemaTicket.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\P8_CinemaTicket.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\P8_CinemaTicket.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\refint\P8_CinemaTicket.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\P8_CinemaTicket.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\P8_CinemaTicket.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P8_CinemaTicket\obj\Debug\net5.0\ref\P8_CinemaTicket.dll

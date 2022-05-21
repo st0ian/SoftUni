@@ -1,0 +1,32 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\refint\P4_ToyShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P4_ToyShop\obj\Debug\net5.0\ref\P4_ToyShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\bin\Debug\net5.0\P4_ToyShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\refint\P4_ToyShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\P4_ToyShop.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements - Exercise\P4_ToyShop\obj\Debug\net5.0\ref\P4_ToyShop.dll

@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\bin\Debug\net5.0\P10_InvalidNumber.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\bin\Debug\net5.0\P10_InvalidNumber.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\bin\Debug\net5.0\P10_InvalidNumber.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\bin\Debug\net5.0\P10_InvalidNumber.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\bin\Debug\net5.0\P10_InvalidNumber.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\bin\Debug\net5.0\P10_InvalidNumber.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\P10_InvalidNumber.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\P10_InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\P10_InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\P10_InvalidNumber.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\P10_InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\P10_InvalidNumber.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\refint\P10_InvalidNumber.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\P10_InvalidNumber.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\P10_InvalidNumber.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P10_InvalidNumber\obj\Debug\net5.0\ref\P10_InvalidNumber.dll

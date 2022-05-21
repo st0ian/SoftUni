@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\bin\Debug\net5.0\P12_TradeCommissions.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\bin\Debug\net5.0\P12_TradeCommissions.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\bin\Debug\net5.0\P12_TradeCommissions.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\bin\Debug\net5.0\P12_TradeCommissions.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\bin\Debug\net5.0\P12_TradeCommissions.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\bin\Debug\net5.0\P12_TradeCommissions.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\P12_TradeCommissions.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\P12_TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\P12_TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\P12_TradeCommissions.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\P12_TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\P12_TradeCommissions.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\refint\P12_TradeCommissions.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\P12_TradeCommissions.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\P12_TradeCommissions.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P12_TradeCommissions\obj\Debug\net5.0\ref\P12_TradeCommissions.dll

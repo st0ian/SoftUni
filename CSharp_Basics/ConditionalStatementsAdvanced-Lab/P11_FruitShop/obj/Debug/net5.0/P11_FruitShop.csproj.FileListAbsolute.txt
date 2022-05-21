@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\bin\Debug\net5.0\P11_FruitShop.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\bin\Debug\net5.0\P11_FruitShop.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\bin\Debug\net5.0\P11_FruitShop.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\bin\Debug\net5.0\P11_FruitShop.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\bin\Debug\net5.0\P11_FruitShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\bin\Debug\net5.0\P11_FruitShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\P11_FruitShop.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\P11_FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\P11_FruitShop.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\P11_FruitShop.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\P11_FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\P11_FruitShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\refint\P11_FruitShop.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\P11_FruitShop.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\P11_FruitShop.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P11_FruitShop\obj\Debug\net5.0\ref\P11_FruitShop.dll

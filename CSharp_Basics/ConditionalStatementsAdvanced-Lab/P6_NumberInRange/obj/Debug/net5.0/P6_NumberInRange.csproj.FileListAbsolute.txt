@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\bin\Debug\net5.0\P6_NumberInRange.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\bin\Debug\net5.0\P6_NumberInRange.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\bin\Debug\net5.0\P6_NumberInRange.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\bin\Debug\net5.0\P6_NumberInRange.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\bin\Debug\net5.0\P6_NumberInRange.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\bin\Debug\net5.0\P6_NumberInRange.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\P6_NumberInRange.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\P6_NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\P6_NumberInRange.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\P6_NumberInRange.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\P6_NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\P6_NumberInRange.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\refint\P6_NumberInRange.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\P6_NumberInRange.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\P6_NumberInRange.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P6_NumberInRange\obj\Debug\net5.0\ref\P6_NumberInRange.dll

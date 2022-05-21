@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\bin\Debug\net5.0\P4_PersonalTitles.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\bin\Debug\net5.0\P4_PersonalTitles.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\bin\Debug\net5.0\P4_PersonalTitles.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\bin\Debug\net5.0\P4_PersonalTitles.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\bin\Debug\net5.0\P4_PersonalTitles.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\bin\Debug\net5.0\P4_PersonalTitles.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\P4_PersonalTitles.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\P4_PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\P4_PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\P4_PersonalTitles.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\P4_PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\P4_PersonalTitles.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\refint\P4_PersonalTitles.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\P4_PersonalTitles.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\P4_PersonalTitles.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\ConditionalStatementsAdvanced-Lab\P4_PersonalTitles\obj\Debug\net5.0\ref\P4_PersonalTitles.dll

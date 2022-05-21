@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\bin\Debug\net6.0\P9_YardGreening.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\bin\Debug\net6.0\P9_YardGreening.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\bin\Debug\net6.0\P9_YardGreening.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\bin\Debug\net6.0\P9_YardGreening.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\bin\Debug\net6.0\P9_YardGreening.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\P9_YardGreening.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\P9_YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\P9_YardGreening.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\P9_YardGreening.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\P9_YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\P9_YardGreening.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\refint\P9_YardGreening.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\P9_YardGreening.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\P9_YardGreening.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P9_YardGreening\obj\Debug\net6.0\ref\P9_YardGreening.dll

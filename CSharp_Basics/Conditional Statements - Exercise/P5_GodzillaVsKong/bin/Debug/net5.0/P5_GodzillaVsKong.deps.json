@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P5_GodzillaVsKong/1.0.0": {
+        "runtime": {
+          "P5_GodzillaVsKong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P5_GodzillaVsKong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

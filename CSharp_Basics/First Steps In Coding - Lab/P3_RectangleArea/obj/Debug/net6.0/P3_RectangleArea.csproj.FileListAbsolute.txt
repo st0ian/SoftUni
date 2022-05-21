@@ -1,0 +1,15 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\bin\Debug\net6.0\P3_RectangleArea.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\bin\Debug\net6.0\P3_RectangleArea.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\bin\Debug\net6.0\P3_RectangleArea.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\bin\Debug\net6.0\P3_RectangleArea.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\bin\Debug\net6.0\P3_RectangleArea.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\P3_RectangleArea.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\P3_RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\P3_RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\P3_RectangleArea.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\P3_RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\P3_RectangleArea.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\refint\P3_RectangleArea.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\P3_RectangleArea.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\P3_RectangleArea.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\First Steps In Coding - Lab\P3_RectangleArea\obj\Debug\net6.0\ref\P3_RectangleArea.dll
