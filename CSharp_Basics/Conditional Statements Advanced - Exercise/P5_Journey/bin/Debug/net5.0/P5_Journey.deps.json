@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P5_Journey/1.0.0": {
+        "runtime": {
+          "P5_Journey.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P5_Journey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

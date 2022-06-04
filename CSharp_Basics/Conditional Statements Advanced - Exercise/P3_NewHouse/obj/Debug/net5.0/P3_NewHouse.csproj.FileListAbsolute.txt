@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\bin\Debug\net5.0\P3_NewHouse.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\bin\Debug\net5.0\P3_NewHouse.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\bin\Debug\net5.0\P3_NewHouse.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\bin\Debug\net5.0\P3_NewHouse.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\bin\Debug\net5.0\P3_NewHouse.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\bin\Debug\net5.0\P3_NewHouse.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\P3_NewHouse.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\P3_NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\P3_NewHouse.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\P3_NewHouse.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\P3_NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\P3_NewHouse.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\refint\P3_NewHouse.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\P3_NewHouse.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\P3_NewHouse.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P3_NewHouse\obj\Debug\net5.0\ref\P3_NewHouse.dll

@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\bin\Debug\net5.0\P8_OnTimeForTheExam.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\bin\Debug\net5.0\P8_OnTimeForTheExam.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\bin\Debug\net5.0\P8_OnTimeForTheExam.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\bin\Debug\net5.0\P8_OnTimeForTheExam.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\bin\Debug\net5.0\P8_OnTimeForTheExam.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\bin\Debug\net5.0\P8_OnTimeForTheExam.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\P8_OnTimeForTheExam.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\P8_OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\P8_OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\P8_OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\P8_OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\P8_OnTimeForTheExam.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\refint\P8_OnTimeForTheExam.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\P8_OnTimeForTheExam.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\P8_OnTimeForTheExam.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P8_OnTimeForTheExam\obj\Debug\net5.0\ref\P8_OnTimeForTheExam.dll

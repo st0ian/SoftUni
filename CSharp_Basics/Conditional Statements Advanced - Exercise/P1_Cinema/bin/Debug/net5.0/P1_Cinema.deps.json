@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P1_Cinema/1.0.0": {
+        "runtime": {
+          "P1_Cinema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P1_Cinema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\bin\Debug\net5.0\P9_SkiTrip.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\bin\Debug\net5.0\P9_SkiTrip.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\bin\Debug\net5.0\P9_SkiTrip.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\bin\Debug\net5.0\P9_SkiTrip.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\bin\Debug\net5.0\P9_SkiTrip.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\bin\Debug\net5.0\P9_SkiTrip.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\P9_SkiTrip.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\P9_SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\P9_SkiTrip.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\P9_SkiTrip.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\P9_SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\P9_SkiTrip.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\refint\P9_SkiTrip.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\P9_SkiTrip.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\P9_SkiTrip.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P9_SkiTrip\obj\Debug\net5.0\ref\P9_SkiTrip.dll

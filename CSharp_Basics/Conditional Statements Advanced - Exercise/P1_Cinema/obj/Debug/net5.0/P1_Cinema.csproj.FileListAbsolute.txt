@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\bin\Debug\net5.0\P1_Cinema.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\bin\Debug\net5.0\P1_Cinema.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\bin\Debug\net5.0\P1_Cinema.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\bin\Debug\net5.0\P1_Cinema.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\bin\Debug\net5.0\P1_Cinema.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\bin\Debug\net5.0\P1_Cinema.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\P1_Cinema.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\P1_Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\P1_Cinema.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\P1_Cinema.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\P1_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\P1_Cinema.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\refint\P1_Cinema.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\P1_Cinema.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\P1_Cinema.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P1_Cinema\obj\Debug\net5.0\ref\P1_Cinema.dll

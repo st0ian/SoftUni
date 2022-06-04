@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\P4_FishingBoat.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\P4_FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\P4_FishingBoat.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\P4_FishingBoat.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\P4_FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\bin\Debug\net5.0\P4_FishingBoat.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\bin\Debug\net5.0\P4_FishingBoat.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\bin\Debug\net5.0\P4_FishingBoat.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\bin\Debug\net5.0\P4_FishingBoat.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\bin\Debug\net5.0\P4_FishingBoat.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\bin\Debug\net5.0\P4_FishingBoat.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\P4_FishingBoat.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\refint\P4_FishingBoat.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\P4_FishingBoat.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\P4_FishingBoat.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P4_FishingBoat\obj\Debug\net5.0\ref\P4_FishingBoat.dll

@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\bin\Debug\net5.0\P6_OperationsBetweenNumbers.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\bin\Debug\net5.0\P6_OperationsBetweenNumbers.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\bin\Debug\net5.0\P6_OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\bin\Debug\net5.0\P6_OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\bin\Debug\net5.0\P6_OperationsBetweenNumbers.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\bin\Debug\net5.0\P6_OperationsBetweenNumbers.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\P6_OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\P6_OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\P6_OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\P6_OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\P6_OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\P6_OperationsBetweenNumbers.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\refint\P6_OperationsBetweenNumbers.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\P6_OperationsBetweenNumbers.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\P6_OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P6_OperationsBetweenNumbers\obj\Debug\net5.0\ref\P6_OperationsBetweenNumbers.dll

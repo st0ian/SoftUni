@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\bin\Debug\net5.0\P06_ VowelsSum.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\bin\Debug\net5.0\P06_ VowelsSum.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\bin\Debug\net5.0\P06_ VowelsSum.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\bin\Debug\net5.0\P06_ VowelsSum.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\bin\Debug\net5.0\P06_ VowelsSum.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\bin\Debug\net5.0\P06_ VowelsSum.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\P06_ VowelsSum.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\P06_ VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\P06_ VowelsSum.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\P06_ VowelsSum.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\P06_ VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\P06_ VowelsSum.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\refint\P06_ VowelsSum.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\P06_ VowelsSum.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\P06_ VowelsSum.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P06_ VowelsSum\obj\Debug\net5.0\ref\P06_ VowelsSum.dll

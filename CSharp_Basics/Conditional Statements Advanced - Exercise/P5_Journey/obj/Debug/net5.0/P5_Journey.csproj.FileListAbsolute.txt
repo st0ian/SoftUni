@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\bin\Debug\net5.0\P5_Journey.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\bin\Debug\net5.0\P5_Journey.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\bin\Debug\net5.0\P5_Journey.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\bin\Debug\net5.0\P5_Journey.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\bin\Debug\net5.0\P5_Journey.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\bin\Debug\net5.0\P5_Journey.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\P5_Journey.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\P5_Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\P5_Journey.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\P5_Journey.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\P5_Journey.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\P5_Journey.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\refint\P5_Journey.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\P5_Journey.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\P5_Journey.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\P5_Journey\obj\Debug\net5.0\ref\P5_Journey.dll

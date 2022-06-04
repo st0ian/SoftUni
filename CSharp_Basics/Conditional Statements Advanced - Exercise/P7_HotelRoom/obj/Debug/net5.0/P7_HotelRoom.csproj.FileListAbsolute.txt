@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\bin\Debug\net5.0\P7_HotelRoom.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\bin\Debug\net5.0\P7_HotelRoom.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\bin\Debug\net5.0\P7_HotelRoom.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\bin\Debug\net5.0\P7_HotelRoom.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\bin\Debug\net5.0\P7_HotelRoom.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\bin\Debug\net5.0\P7_HotelRoom.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\P7_HotelRoom.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\P7_HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\P7_HotelRoom.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\P7_HotelRoom.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\P7_HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\P7_HotelRoom.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\refint\P7_HotelRoom.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\P7_HotelRoom.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\P7_HotelRoom.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P7_HotelRoom\obj\Debug\net5.0\ref\P7_HotelRoom.dll

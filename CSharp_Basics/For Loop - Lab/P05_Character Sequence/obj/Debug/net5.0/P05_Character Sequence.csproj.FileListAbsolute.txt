@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\bin\Debug\net5.0\P05_Character Sequence.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\bin\Debug\net5.0\P05_Character Sequence.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\bin\Debug\net5.0\P05_Character Sequence.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\bin\Debug\net5.0\P05_Character Sequence.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\bin\Debug\net5.0\P05_Character Sequence.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\bin\Debug\net5.0\P05_Character Sequence.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\P05_Character Sequence.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\P05_Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\P05_Character Sequence.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\P05_Character Sequence.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\P05_Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\P05_Character Sequence.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\refint\P05_Character Sequence.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\P05_Character Sequence.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\P05_Character Sequence.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\For Loop - Lab\P05_Character Sequence\obj\Debug\net5.0\ref\P05_Character Sequence.dll

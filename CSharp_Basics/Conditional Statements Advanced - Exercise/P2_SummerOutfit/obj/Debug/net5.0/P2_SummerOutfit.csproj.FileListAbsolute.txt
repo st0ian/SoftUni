@@ -1,0 +1,16 @@
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\bin\Debug\net5.0\P2_SummerOutfit.exe
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\bin\Debug\net5.0\P2_SummerOutfit.deps.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\bin\Debug\net5.0\P2_SummerOutfit.runtimeconfig.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\bin\Debug\net5.0\P2_SummerOutfit.runtimeconfig.dev.json
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\bin\Debug\net5.0\P2_SummerOutfit.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\bin\Debug\net5.0\P2_SummerOutfit.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\P2_SummerOutfit.csproj.AssemblyReference.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\P2_SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\P2_SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\P2_SummerOutfit.AssemblyInfo.cs
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\P2_SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\P2_SummerOutfit.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\refint\P2_SummerOutfit.dll
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\P2_SummerOutfit.pdb
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\P2_SummerOutfit.genruntimeconfig.cache
+C:\Users\Longo\Desktop\Repos\Training\CSharp_Basics\Conditional Statements Advanced - Exercise\P2_SummerOutfit\obj\Debug\net5.0\ref\P2_SummerOutfit.dll

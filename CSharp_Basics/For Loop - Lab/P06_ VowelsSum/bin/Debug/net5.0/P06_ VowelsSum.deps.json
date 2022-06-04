@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P06_ VowelsSum/1.0.0": {
+        "runtime": {
+          "P06_ VowelsSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P06_ VowelsSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
