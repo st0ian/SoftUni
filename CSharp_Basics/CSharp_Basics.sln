@@ -219,11 +219,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P8_TennisRanklist", "For Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3_Sum PrimeNonPrime", "Nested Loops - Exercise\P3_Sum PrimeNonPrime\P3_Sum PrimeNonPrime.csproj", "{F1CC188F-C5D9-4A52-BB80-08B25D781D30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_TrainTheTrainers", "Nested Loops - Exercise\P4_TrainTheTrainers\P4_TrainTheTrainers.csproj", "{417912CC-5C06-493C-A9C7-315524DAD5FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P4_TrainTheTrainers", "Nested Loops - Exercise\P4_TrainTheTrainers\P4_TrainTheTrainers.csproj", "{417912CC-5C06-493C-A9C7-315524DAD5FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5_SpecialNumbers", "Nested Loops - Exercise\P5_SpecialNumbers\P5_SpecialNumbers.csproj", "{2586E218-F9F0-4921-A9EB-01F646EA2070}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P5_SpecialNumbers", "Nested Loops - Exercise\P5_SpecialNumbers\P5_SpecialNumbers.csproj", "{2586E218-F9F0-4921-A9EB-01F646EA2070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6_CinemaTickets", "Nested Loops - Exercise\P6_CinemaTickets\P6_CinemaTickets.csproj", "{5DCC5147-59F5-431E-A502-F791169913B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P6_CinemaTickets", "Nested Loops - Exercise\P6_CinemaTickets\P6_CinemaTickets.csproj", "{5DCC5147-59F5-431E-A502-F791169913B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "First Steps in Coding - More Exercises", "First Steps in Coding - More Exercises", "{3E1940DE-28AA-4796-B2EB-969551496EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1_TrapeziodArea", "First Steps in Coding - More Exercises\P1_TrapeziodArea\P1_TrapeziodArea.csproj", "{F2BE1CAD-96C0-4B90-BC08-21FEB2AC7315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_TriangleArea", "First Steps in Coding - More Exercises\P2_TriangleArea\P2_TriangleArea.csproj", "{5B9B6D58-EEDC-4D38-BF0B-532F07F97704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3_CelsiusToFahrenheit", "First Steps in Coding - More Exercises\P3_CelsiusToFahrenheit\P3_CelsiusToFahrenheit.csproj", "{04C51D21-733E-4FA7-B2C5-D3406292977B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4_VegetableMarket", "First Steps in Coding - More Exercises\P4_VegetableMarket\P4_VegetableMarket.csproj", "{CB5552DC-6ED2-41BF-882F-EFC54E36FA14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5_TrainingLab", "First Steps in Coding - More Exercises\P5_TrainingLab\P5_TrainingLab.csproj", "{22EEB646-2AB4-441C-A52C-D1D0A8C211C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6_Fishland", "First Steps in Coding - More Exercises\P6_Fishland\P6_Fishland.csproj", "{DF9E76E6-8FB3-4DB4-8332-4ECDF4EAB9A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7_HousePainting", "First Steps in Coding - More Exercises\P7_HousePainting\P7_HousePainting.csproj", "{3B1DFB45-FD24-46F5-B9D1-9FC12B70107C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8_CircleAreaAndPerimeter", "First Steps in Coding - More Exercises\P8_CircleAreaAndPerimeter\P8_CircleAreaAndPerimeter.csproj", "{4ED5B141-907C-4A2C-8604-ED5A824A5918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_WeatherForecast", "First Steps in Coding - More Exercises\P9_WeatherForecast\P9_WeatherForecast.csproj", "{389C2F94-AF4D-40A8-A2AF-131FEFF542C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10_Weather ForecastPart2", "First Steps in Coding - More Exercises\P10_Weather ForecastPart2\P10_Weather ForecastPart2.csproj", "{F96E165D-5703-42DA-B777-9B90C199FB5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -627,6 +649,46 @@ Global
 		{5DCC5147-59F5-431E-A502-F791169913B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCC5147-59F5-431E-A502-F791169913B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCC5147-59F5-431E-A502-F791169913B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BE1CAD-96C0-4B90-BC08-21FEB2AC7315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BE1CAD-96C0-4B90-BC08-21FEB2AC7315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BE1CAD-96C0-4B90-BC08-21FEB2AC7315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BE1CAD-96C0-4B90-BC08-21FEB2AC7315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9B6D58-EEDC-4D38-BF0B-532F07F97704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9B6D58-EEDC-4D38-BF0B-532F07F97704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9B6D58-EEDC-4D38-BF0B-532F07F97704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9B6D58-EEDC-4D38-BF0B-532F07F97704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C51D21-733E-4FA7-B2C5-D3406292977B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C51D21-733E-4FA7-B2C5-D3406292977B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C51D21-733E-4FA7-B2C5-D3406292977B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C51D21-733E-4FA7-B2C5-D3406292977B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5552DC-6ED2-41BF-882F-EFC54E36FA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5552DC-6ED2-41BF-882F-EFC54E36FA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5552DC-6ED2-41BF-882F-EFC54E36FA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5552DC-6ED2-41BF-882F-EFC54E36FA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EEB646-2AB4-441C-A52C-D1D0A8C211C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EEB646-2AB4-441C-A52C-D1D0A8C211C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EEB646-2AB4-441C-A52C-D1D0A8C211C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EEB646-2AB4-441C-A52C-D1D0A8C211C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9E76E6-8FB3-4DB4-8332-4ECDF4EAB9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9E76E6-8FB3-4DB4-8332-4ECDF4EAB9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9E76E6-8FB3-4DB4-8332-4ECDF4EAB9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9E76E6-8FB3-4DB4-8332-4ECDF4EAB9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1DFB45-FD24-46F5-B9D1-9FC12B70107C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1DFB45-FD24-46F5-B9D1-9FC12B70107C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1DFB45-FD24-46F5-B9D1-9FC12B70107C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1DFB45-FD24-46F5-B9D1-9FC12B70107C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED5B141-907C-4A2C-8604-ED5A824A5918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED5B141-907C-4A2C-8604-ED5A824A5918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED5B141-907C-4A2C-8604-ED5A824A5918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED5B141-907C-4A2C-8604-ED5A824A5918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389C2F94-AF4D-40A8-A2AF-131FEFF542C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389C2F94-AF4D-40A8-A2AF-131FEFF542C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389C2F94-AF4D-40A8-A2AF-131FEFF542C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389C2F94-AF4D-40A8-A2AF-131FEFF542C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96E165D-5703-42DA-B777-9B90C199FB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96E165D-5703-42DA-B777-9B90C199FB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96E165D-5703-42DA-B777-9B90C199FB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96E165D-5703-42DA-B777-9B90C199FB5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -731,6 +793,16 @@ Global
 		{417912CC-5C06-493C-A9C7-315524DAD5FB} = {37FF02CD-2345-4E54-BA56-06BE65C0DB94}
 		{2586E218-F9F0-4921-A9EB-01F646EA2070} = {37FF02CD-2345-4E54-BA56-06BE65C0DB94}
 		{5DCC5147-59F5-431E-A502-F791169913B6} = {37FF02CD-2345-4E54-BA56-06BE65C0DB94}
+		{F2BE1CAD-96C0-4B90-BC08-21FEB2AC7315} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{5B9B6D58-EEDC-4D38-BF0B-532F07F97704} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{04C51D21-733E-4FA7-B2C5-D3406292977B} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{CB5552DC-6ED2-41BF-882F-EFC54E36FA14} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{22EEB646-2AB4-441C-A52C-D1D0A8C211C0} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{DF9E76E6-8FB3-4DB4-8332-4ECDF4EAB9A2} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{3B1DFB45-FD24-46F5-B9D1-9FC12B70107C} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{4ED5B141-907C-4A2C-8604-ED5A824A5918} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{389C2F94-AF4D-40A8-A2AF-131FEFF542C9} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
+		{F96E165D-5703-42DA-B777-9B90C199FB5B} = {3E1940DE-28AA-4796-B2EB-969551496EE9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {41C3AA72-8414-4456-953B-B1C479001CCE}
