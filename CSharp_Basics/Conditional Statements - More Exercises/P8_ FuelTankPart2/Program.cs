@@ -28,40 +28,27 @@ namespace P8__FuelTankPart2
             double price = 0;
             double discount = 0;
 
-            if (fuelType == "Gasoline")
+            if (volume >= 20 && volume <= 25)
             {
-                if (volume >= 20 && volume <= 25)
-                {
-                    discount = 0.08;
-                }
-                else if (volume > 25)
-                {
-                    discount = 0.10;
-                }
+                discount = 0.08;
+            }
+            else if (volume > 25)
+            {
+                discount = 0.10;
+            }
+
+            if (fuelType == "Gasoline")
+            {                
                 price = volume * (priceGasoline - gasolineCardDiscount) * (1 - discount);
             }
+
             else if (fuelType == "Diesel")
             {
-                if (volume >= 20 && volume <= 25)
-                {
-                    discount = 0.08;
-                }
-                else if (volume > 25)
-                {
-                    discount = 0.10;
-                }
                 price = volume * (priceDisel - diselCardDiscount) * (1 - discount);
             }
+
             else if (fuelType == "Gas")
             {
-                if (volume >= 20 && volume <= 25)
-                {
-                    discount = 0.08;
-                }
-                else if (volume > 25)
-                {
-                    discount = 0.10;
-                }
                 price = volume * (priceGas - gasCardDiscount) * (1 - discount);
             }
 
