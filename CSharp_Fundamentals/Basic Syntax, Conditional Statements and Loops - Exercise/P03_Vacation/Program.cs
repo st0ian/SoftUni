@@ -10,7 +10,8 @@ namespace P03_Vacation
             string type = Console.ReadLine();
             string day = Console.ReadLine();
             
-            double price;
+            double price = 22.5;
+            double discount = 0;
 
             switch (day)
             {
@@ -28,7 +29,7 @@ namespace P03_Vacation
                         price = 15;
                     }
                     break;
-                case "Sunday":
+                case "Saturday":
                     if (type == "Students")
                     {
                         price = 9.80;
@@ -42,7 +43,7 @@ namespace P03_Vacation
                         price = 20;
                     }
                     break;
-                case "Saturday":
+                case "Sunday":
                     if (type == "Students")
                     {
                         price = 10.46;
@@ -60,7 +61,22 @@ namespace P03_Vacation
                     break;
             }
 
+            if (type == "Students" && count >= 30)
+            {
+                discount = 0.15;
+            }
+            else if (type == "Business" && count >= 100)
+            {
+                count -= 10;
+            }
+            else if (type == "Regular" && count >= 10 && count <= 20)
+            {
+                discount = 0.05;
+            }
 
+            double totalPrice = count *  price * (1 - discount);
+
+            Console.WriteLine($"Total price: {totalPrice:f2}");
         }
     }
 }
