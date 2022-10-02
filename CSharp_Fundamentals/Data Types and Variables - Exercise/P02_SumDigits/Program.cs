@@ -9,20 +9,13 @@ namespace P02_SumDigits
             string input = Console.ReadLine();
 
             int sum = 0;
-            int sum2 = 0;
 
-            for (int i = 0; i < input.Length; i++)
+            foreach (char digit in input)
             {
-                sum += int.Parse(input[i].ToString());
-            }
-
-            foreach (var item in input)
-            {
-                sum2 += int.Parse(item.ToString());
+                sum += int.Parse(digit.ToString());
             }
 
             Console.WriteLine(sum);
-            Console.WriteLine(sum2);
         }
     }
 }
