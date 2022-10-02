@@ -4,6 +4,8 @@ namespace P07_VendingMachine
 {
     internal class Program
     {
+        // Needs debuging -- sth in the while logics
+
         static void Main(string[] args)
         {
             double priceNuts = 2.0;
