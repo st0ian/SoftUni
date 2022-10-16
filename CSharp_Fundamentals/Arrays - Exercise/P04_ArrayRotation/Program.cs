@@ -10,21 +10,20 @@ namespace P04_ArrayRotation
             int[] input = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int rotations = int.Parse(Console.ReadLine());
 
-            int[] currentArray = new int[input.Length];
-
-            for (int i = 0; i < rotations; i++)
+            for (int swaps = 0; swaps < rotations; swaps++)
             {
-                int firstEl = input[i];
-                currentArray[0] = firstEl;
-                for (int j = 1; j < currentArray.Length; j++)
+                int firstEl = input[0];
+
+                for (int position = 0; position < input.Length-1; position++)
                 {
-                    currentArray[j] = currentArray[j+1];
+                    input[position] = input[position + 1];
                 }
-                
+
+                input[input.Length-1] = firstEl;
 
             }
 
-            foreach (int item in currentArray)
+            foreach (int item in input)
             {
                 Console.Write(item + " ");
             }
