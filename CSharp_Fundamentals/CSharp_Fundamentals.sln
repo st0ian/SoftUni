@@ -91,11 +91,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04_PrintingTriangle", "Met
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06_EqualSum", "Arrays - Exercise\P06_EqualSum\P06_EqualSum.csproj", "{345A2CB9-0AAC-4C43-AA5E-EF866D17944D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_MaxSequenceOfEqualElements", "Arrays - Exercise\P07_MaxSequenceOfEqualElements\P07_MaxSequenceOfEqualElements.csproj", "{3800531C-A1C8-4586-92AF-21F41C018657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07_MaxSequenceOfEqualElements", "Arrays - Exercise\P07_MaxSequenceOfEqualElements\P07_MaxSequenceOfEqualElements.csproj", "{3800531C-A1C8-4586-92AF-21F41C018657}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08_MagicSum", "Arrays - Exercise\P08_MagicSum\P08_MagicSum.csproj", "{A629D03F-D92A-4BE4-834B-8C4FAF969AAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08_MagicSum", "Arrays - Exercise\P08_MagicSum\P08_MagicSum.csproj", "{A629D03F-D92A-4BE4-834B-8C4FAF969AAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_KaminoFactory", "Arrays - Exercise\P09_KaminoFactory\P09_KaminoFactory.csproj", "{400E4A5C-D0A5-448B-B20E-7AAFE8055168}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P09_KaminoFactory", "Arrays - Exercise\P09_KaminoFactory\P09_KaminoFactory.csproj", "{400E4A5C-D0A5-448B-B20E-7AAFE8055168}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_ProgrammingFundamentals-MidExam", "04_ProgrammingFundamentals-MidExam", "{6EE52BBD-7F5A-453B-A9E8-9EE91C795A6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_GuineaPig", "04_ProgrammingFundamentals-MidExam\P01_GuineaPig\P01_GuineaPig.csproj", "{F3CE5CF9-89EB-4830-93C4-EFCE38E72930}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_ShoppingList", "04_ProgrammingFundamentals-MidExam\P02_ShoppingList\P02_ShoppingList.csproj", "{8EA949AE-582E-4646-8614-50394F2440C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_HeartDelivery", "04_ProgrammingFundamentals-MidExam\P03_HeartDelivery\P03_HeartDelivery.csproj", "{6B3A23A2-FDAF-45AA-9D67-17CA452932AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_ProgrammingFundamentals-MidExamRetake", "01_ProgrammingFundamentals-MidExamRetake", "{134C4BF8-AE09-46E8-8DAC-F3CCDF77C5F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_ComputerStore", "01_ProgrammingFundamentals-MidExamRetake\P01_ComputerStore\P01_ComputerStore.csproj", "{8AF015D4-54E6-4978-B455-E4BAC67D66BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +279,22 @@ Global
 		{400E4A5C-D0A5-448B-B20E-7AAFE8055168}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{400E4A5C-D0A5-448B-B20E-7AAFE8055168}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{400E4A5C-D0A5-448B-B20E-7AAFE8055168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CE5CF9-89EB-4830-93C4-EFCE38E72930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CE5CF9-89EB-4830-93C4-EFCE38E72930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CE5CF9-89EB-4830-93C4-EFCE38E72930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CE5CF9-89EB-4830-93C4-EFCE38E72930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA949AE-582E-4646-8614-50394F2440C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA949AE-582E-4646-8614-50394F2440C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA949AE-582E-4646-8614-50394F2440C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA949AE-582E-4646-8614-50394F2440C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3A23A2-FDAF-45AA-9D67-17CA452932AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3A23A2-FDAF-45AA-9D67-17CA452932AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3A23A2-FDAF-45AA-9D67-17CA452932AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3A23A2-FDAF-45AA-9D67-17CA452932AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF015D4-54E6-4978-B455-E4BAC67D66BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF015D4-54E6-4978-B455-E4BAC67D66BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF015D4-54E6-4978-B455-E4BAC67D66BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF015D4-54E6-4978-B455-E4BAC67D66BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -313,6 +341,10 @@ Global
 		{3800531C-A1C8-4586-92AF-21F41C018657} = {E762F6FE-F751-4CE1-9BA1-5832A8157553}
 		{A629D03F-D92A-4BE4-834B-8C4FAF969AAE} = {E762F6FE-F751-4CE1-9BA1-5832A8157553}
 		{400E4A5C-D0A5-448B-B20E-7AAFE8055168} = {E762F6FE-F751-4CE1-9BA1-5832A8157553}
+		{F3CE5CF9-89EB-4830-93C4-EFCE38E72930} = {6EE52BBD-7F5A-453B-A9E8-9EE91C795A6A}
+		{8EA949AE-582E-4646-8614-50394F2440C7} = {6EE52BBD-7F5A-453B-A9E8-9EE91C795A6A}
+		{6B3A23A2-FDAF-45AA-9D67-17CA452932AF} = {6EE52BBD-7F5A-453B-A9E8-9EE91C795A6A}
+		{8AF015D4-54E6-4978-B455-E4BAC67D66BF} = {134C4BF8-AE09-46E8-8DAC-F3CCDF77C5F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4C93C82A-CBC5-4B72-9040-B9B5AA587D25}
