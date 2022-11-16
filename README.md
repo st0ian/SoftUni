@@ -1,6 +1,13 @@
-# C# Programming Basics
-# C# Programming Fundamentals
+<details>
+  <summary> <h1> C# Programming Basics </h1> </summary>
+</details>
 
+<details open>
+  <summary> <h1> C# Programming Fundamentals </h1> </summary>
+
+<details open>
+  <summary> <h2> Content </h2> </summary>
+  
 - [ ] Basic Syntax, Conditional Statements and Loops - Lab	(0/13)
 - [x] Basic Syntax, Conditional Statements and Loops - Exercise (8/8) + (0,5/3)
 - [ ] Data Types and Variables - Lab (0/12)
@@ -19,10 +26,10 @@
 - [ ] Text Processing - Exercise
 - [ ] Regular Expressions - Lab
 - [ ] Regular Expressions - Exercise
-
-<br>
+</details>
+</details>
 
 - Tasks Descriptions are included in each topic's folder
 
-- Code can be tested here:
-Judge System: https://judge.softuni.org/Contests/#!/List/ByCategory/245/CSharp-Basics
+- Code can be tested in Judge System: 
+https://judge.softuni.org/Contests/#!/List/ByCategory/245/CSharp-Basics
