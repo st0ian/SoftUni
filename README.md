@@ -24,7 +24,7 @@
 - [x] Associative Arrays - Exercise (7/7)
 - [ ] Text Processing - Lab
 - [ ] Text Processing - Exercise
-- [ ] Regular Expressions - Lab
+- [x] Regular Expressions - Lab (3/3)
 - [ ] Regular Expressions - Exercise
 </details>
 </details>
