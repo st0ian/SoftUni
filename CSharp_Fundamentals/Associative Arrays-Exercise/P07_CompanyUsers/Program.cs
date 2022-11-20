@@ -21,6 +21,7 @@ namespace P07_CompanyUsers
                 {
                     companyRegister.Add(companyName, new List<string>());
                 }
+
                 if (!companyRegister[companyName].Contains(employeName))
                 {
                     companyRegister[companyName].Add(employeName);
@@ -32,6 +33,7 @@ namespace P07_CompanyUsers
             foreach (var company in companyRegister)
             {
                 Console.WriteLine($"{company.Key}");
+
                 foreach (var id in company.Value)
                 {
                     Console.WriteLine($"-- {id}");
