@@ -197,6 +197,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_Race", "RegularExpressi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_SoftUniBarIncom", "RegularExpressions-Exercise\P03_SoftUniBarIncom\P03_SoftUniBarIncom.csproj", "{4B7B55FC-25EF-4BB3-BD65-0E1B7DC93803}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_AppendArrays_V2", "Lists-Exercise\P07_AppendArrays_V2\P07_AppendArrays_V2.csproj", "{CB466439-6C36-4977-8FBB-F4E30ACEB3E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -527,6 +529,10 @@ Global
 		{4B7B55FC-25EF-4BB3-BD65-0E1B7DC93803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B7B55FC-25EF-4BB3-BD65-0E1B7DC93803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B7B55FC-25EF-4BB3-BD65-0E1B7DC93803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB466439-6C36-4977-8FBB-F4E30ACEB3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB466439-6C36-4977-8FBB-F4E30ACEB3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB466439-6C36-4977-8FBB-F4E30ACEB3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB466439-6C36-4977-8FBB-F4E30ACEB3E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -613,6 +619,7 @@ Global
 		{BEF6E378-BC3B-4E55-B8AE-856BC794D351} = {67A951F8-8C68-497D-8B38-4415660F394B}
 		{F5F95ABF-0F35-43B7-B6B3-14D9346A1CC5} = {67A951F8-8C68-497D-8B38-4415660F394B}
 		{4B7B55FC-25EF-4BB3-BD65-0E1B7DC93803} = {67A951F8-8C68-497D-8B38-4415660F394B}
+		{CB466439-6C36-4977-8FBB-F4E30ACEB3E9} = {D515050A-3D57-43EA-B51C-83D918351818}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4C93C82A-CBC5-4B72-9040-B9B5AA587D25}

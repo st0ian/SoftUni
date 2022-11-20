@@ -9,7 +9,8 @@ namespace P07_AppendArrays
         static void Main(string[] args)
         {
             // ........ 75 / 100 points
-            string[] input = Console.ReadLine().Split("|");            
+            // 1 2 3 |4 5 6 |  7  8
+            string[] input = Console.ReadLine().Split("|", StringSplitOptions.RemoveEmptyEntries);            
 
             List<char> result = new List<char>();
 
