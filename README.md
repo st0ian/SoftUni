@@ -25,7 +25,7 @@
 - [ ] Text Processing - Lab
 - [ ] Text Processing - Exercise
 - [x] Regular Expressions - Lab (3/3)
-- [ ] Regular Expressions - Exercise
+- [ ] Regular Expressions - Exercise (1/3) + (0/3)
 </details>
 </details>
 
