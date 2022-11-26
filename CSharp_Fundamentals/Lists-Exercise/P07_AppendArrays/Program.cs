@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace P07_AppendArrays
 {
@@ -8,8 +7,6 @@ namespace P07_AppendArrays
     {
         static void Main(string[] args)
         {
-            // ........ 75 / 100 points
-            // 1 2 3 |4 5 6 |  7  8
             string[] input = Console.ReadLine().Split("|", StringSplitOptions.RemoveEmptyEntries);            
 
             List<char> result = new List<char>();
