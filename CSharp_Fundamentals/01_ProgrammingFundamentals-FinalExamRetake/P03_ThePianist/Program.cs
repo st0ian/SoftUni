@@ -11,8 +11,6 @@ namespace P03_ThePianist
 
             Dictionary<string, List<string>> favouritesList = new Dictionary<string, List<string>>();
 
-            // Fur Elise|Beethoven|A Minor
-
             for (int i = 0; i < count; i++)
             {
                 string[] info = Console.ReadLine().Split('|');

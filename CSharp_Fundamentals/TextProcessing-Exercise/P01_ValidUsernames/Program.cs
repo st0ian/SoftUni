@@ -8,7 +8,7 @@ namespace P01_ValidUsernames
     {
         static void Main(string[] args)
         {
-            List<string> input = Console.ReadLine().Split(", ").Where(x => x.Length is >= 3 and <= 16).ToList();            
+            List<string> input = Console.ReadLine().Split(", ").Where(x => x.Length is >= 3 and <= 16).ToList();
 
             for (int i = 0; i < input.Count; i++)
             {
